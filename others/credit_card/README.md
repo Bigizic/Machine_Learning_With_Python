@@ -20,7 +20,7 @@ Imagine that you work for a financial institution and part of your job is to bui
 You have access to transactions that occured over a certain period of time. The majority of the transactions are normally legitimate and only a small fraction are non-legitimate. Thus, typically you have access to a dataset that is highly unbalanced.
 
 
-Dataset here: ![https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud]
+<a href="https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud" target="_blank">Dataset here</a>
 
 
 
