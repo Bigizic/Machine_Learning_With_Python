@@ -2,5 +2,5 @@ Contains solution to credit card fraud detection using scikit-learn and snap ML 
 
 ### Models used:
 
-[X] Decision Trees
-[X] Support Vector Machine
+- [X] Decision Trees
+- [X] Support Vector Machine
