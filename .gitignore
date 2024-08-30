@@ -3,5 +3,5 @@ include/
 lib/
 share/
 lib64
-pyenv.cfg
+pyvenv.cfg
 others/credit_card/creditcard.csv
