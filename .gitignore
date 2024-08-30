@@ -1,0 +1,7 @@
+bin/
+include/
+lib/
+share/
+lib64
+pyenv.cfg
+others/credit_card/creditcard.csv
