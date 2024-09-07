@@ -1,4 +1,4 @@
-# Continuation of SoftMax Regression for Multi-Class Classification
+# Continuation of SoftMax Regression for Multi-Class Classification <a href="https://github.com/Bigizic/Machine_Learning_With_Python/tree/main/regression/softmax_regression">here</a>
 
 ## One vs All is used for SVMS
 
