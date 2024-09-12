@@ -56,5 +56,5 @@ Finally, you will use your models to generate the report at the end.
 | RainTomorrow | If there is rain tomorrow | Yes/No | float |
 
 ## Accuracy, Jaccard Index, F1-Score and LogLoss in a tabular format
-<img src="img.png" height="100%" width="70%" alt="report"/>
+<img src="img.png" height="150%" width="90%" alt="report"/>
 
