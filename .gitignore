@@ -5,3 +5,4 @@ share/
 lib64
 pyvenv.cfg
 others/credit_card/creditcard.csv
+final_project/__pycache__/
